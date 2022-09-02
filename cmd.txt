@@ -1,0 +1,9 @@
+echo "# binanceProject" >> README.md
+git init
+git add README.md
+git commit -m "binanceProject first"
+binanceProjectgit branch -M main
+git branch -M main
+git remote add origin https://github.com/Muhammedtanay/binanceProject.git
+git push -u origin main
+doskey/history >> cmd.txt
