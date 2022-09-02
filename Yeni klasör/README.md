@@ -1,5 +1,5 @@
 "# binanceProject" 
-
+5u8
 Bu proje www.binance.com sitesi üzerinde kripto para alım ve satım işlemleri için geliştirilmiştir
 
 General API Information
