@@ -1,3 +1,3 @@
 git add -A
-git commit -m "binanceProject timestamp Helper Added <<<<"
+git commit -m "binanceProject HMAC SHA256 Added <<<<"
 git push -u origin main
