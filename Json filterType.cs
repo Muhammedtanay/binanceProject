@@ -1,3 +1,7 @@
+Using newtonsoft;
+Using query.json;
+
+
 {
   "filterType": "PRICE_FILTER",
   "minPrice": "0.00000100",
