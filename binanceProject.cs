@@ -1,6 +1,10 @@
 using binanceProject;
 
+<<<<<<< HEAD
         
+=======
+/*
+>>>>>>> bfaa246a0b1b5b02b2ac8b0edb5826547a500fe9
 General API Information
 Some endpoints will require an API Key.
 The base endpoint is: https://www.trbinance.com
@@ -30,3 +34,4 @@ For GET endpoints, parameters must be sent as a query string.
 For POST endpoints, the parameters may be sent as a query string or in the request body with content type application/x-www-form-urlencoded. You may mix parameters between both the query string and request body if you wish to do so.
 Parameters may be sent in any order.
 If a parameter sent in both the query string and request body, the body string parameter will be used.
+*/
