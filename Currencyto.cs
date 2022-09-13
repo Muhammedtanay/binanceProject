@@ -1,11 +1,11 @@
 
-Pinging google.com [172.217.169.142] with 32 bytes of data:
-Reply from 172.217.169.142: bytes=32 time=36ms TTL=55
-Reply from 172.217.169.142: bytes=32 time=36ms TTL=55
-Reply from 172.217.169.142: bytes=32 time=36ms TTL=55
-Reply from 172.217.169.142: bytes=32 time=37ms TTL=55
+Pinging youtube.com [172.217.169.206] with 32 bytes of data:
+Reply from 172.217.169.206: bytes=32 time=37ms TTL=114
+Reply from 172.217.169.206: bytes=32 time=37ms TTL=114
+Reply from 172.217.169.206: bytes=32 time=37ms TTL=114
+Reply from 172.217.169.206: bytes=32 time=46ms TTL=114
 
-Ping statistics for 172.217.169.142:
+Ping statistics for 172.217.169.206:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 37ms, Average = 36ms
+    Minimum = 37ms, Maximum = 46ms, Average = 39ms
